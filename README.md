@@ -10,7 +10,7 @@ The ESP line of microcontrollers also allows for programming in the [Arduino](ht
 
 ## Current functionallity
 - [x] Get a access point working.
-- [x] Get gyro data from smartphone to ESP, a demo page is currently hosted at [this](gate-garden.com/gyroTest) address.
+- [x] Get gyro data from smartphone to ESP, a demo page is currently hosted at [this](https://gate-garden.com/gyroTest) address.
 - [x] Get visualization tools for input verification working on the ESP-32.
 Im using a small 64×32 OLED display for two bargraphs, showing the inputs the ESP would send to the cars motors.
 - [ ] Buy a car and mount the ESP to it
